@@ -16,6 +16,8 @@
 <strong>COLA 是 Clean Object-Oriented and Layered Architecture的缩写，代表“整洁面向对象分层架构”。
 目前COLA已经发展到[COLA v5](#版本迭代)。</strong>
 
+如何用Harness工程，使用COLA作为AI友好的应用架构，请阅读[《Harness工程实战》](https://item.jd.com/10233699155932.html) 
+
 > - 想了解更多COLA信息，请关注微信公众号：  
 > <a href="#dummy"><img src="https://img-blog.csdnimg.cn/2020110314110321.png" width="25%" alt="qrcode" /></a>
 > - 想了解更多COLA背后的故事，请支持我的新书[《程序员的底层思维》](https://item.jd.com/13652002.html)
